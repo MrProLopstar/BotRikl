@@ -1,0 +1,45 @@
+{
+	"inline": true,
+	"buttons": [
+		[{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "💫 Разные"
+		},
+		"color": "secondary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"2\"}",
+			"label": "✨ Развлекательные"
+		},
+		"color": "secondary"
+		}],
+		[{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "🎮 Игры"
+		},
+		"color": "secondary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"2\"}",
+			"label": "💬 Чат команды"
+		},
+		"color": "secondary"
+		}],
+		[{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "🎁 Бонус"
+		},
+		"color": "negative"
+		}]
+	]
+}

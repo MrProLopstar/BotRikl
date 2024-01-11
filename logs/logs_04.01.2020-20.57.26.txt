@@ -1,0 +1,9 @@
+[][--Logs--][]
+04.01.2020 | 20:57:29 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 25 1.1 test
+04.01.2020 | 20:57:53 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! logback()
+04.01.2020 | 20:57:59 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 25 1.1 test
+04.01.2020 | 20:58:22 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | поиск https:vk.comxtaraz_drz
+04.01.2020 | 20:58:33 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | поиск xtaraz_drz
+04.01.2020 | 20:58:44 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 2 1.1 test
+04.01.2020 | 20:59:18 | Создатель | ID: 1 | ID Chat: 5 | URL: vk.com/id239209526 | null
+04.01.2020 | 20:59:30 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 2 1.1 test

@@ -1,0 +1,105 @@
+{
+    "type": "carousel",
+    "elements": [{
+        "title": "VIP (50руб)",
+        "description": "Оплачивая что-либо в разделе «товары» Вы помогаете проекту в развитии!",
+        "photo_id": "-182329862_457239093",
+            "action": {
+                "type": "open_link",
+                "link": "https://vk.com/bot_rikl?w=product-178050588_4859636"
+        	},
+            "buttons": [{
+                "action": {
+					"type": "open_link",
+					"link": "https://botrikl.ru",
+					"payload": "{\"button\": \"1\"}",
+					"label": "Открыть сайт"
+				}
+            }]
+    },
+	{
+        "title": "VIP+ (100руб)",
+        "description": "Оплачивая что-либо в разделе «товары» Вы помогаете проекту в развитии!",
+        "photo_id": "-182329862_457239092",
+            "action": {
+                "type": "open_link",
+                "link": "https://vk.com/bot_rikl?w=product-178050588_4859637"
+        	},
+            "buttons": [{
+                "action": {
+					"type": "open_link",
+					"link": "https://botrikl.ru",
+					"payload": "{\"button\": \"1\"}",
+					"label": "Открыть сайт"
+				}
+            }]
+    },
+	{
+        "title": "8.000.000.000$ (15руб)",
+        "description": "Оплачивая что-либо в разделе «товары» Вы помогаете проекту в развитии!",
+        "photo_id": "-182329862_457239088",
+            "action": {
+                "type": "open_link",
+                "link": "https://vk.com/market-178050588?w=product-178050588_4859627"
+        	},
+            "buttons": [{
+                "action": {
+					"type": "open_link",
+					"link": "https://botrikl.ru",
+					"payload": "{\"button\": \"1\"}",
+					"label": "Открыть сайт"
+				}
+            }]
+    },
+	{
+        "title": "20.000.000.000$ (30руб)",
+        "description": "Оплачивая что-либо в разделе «товары» Вы помогаете проекту в развитии!",
+        "photo_id": "-182329862_457239089",
+            "action": {
+                "type": "open_link",
+                "link": "https://vk.com/bot_rikl?w=product-178050588_4859629"
+        	},
+            "buttons": [{
+                "action": {
+					"type": "open_link",
+					"link": "https://botrikl.ru",
+					"payload": "{\"button\": \"1\"}",
+					"label": "Открыть сайт"
+				}
+            }]
+    },
+	{
+        "title": "50.000.000.000$ (50руб)",
+        "description": "Оплачивая что-либо в разделе «товары» Вы помогаете проекту в развитии!",
+        "photo_id": "-182329862_457239090",
+            "action": {
+                "type": "open_link",
+                "link": "https://vk.com/bot_rikl?w=product-178050588_4859632"
+        	},
+            "buttons": [{
+                "action": {
+					"type": "open_link",
+					"link": "https://botrikl.ru",
+					"payload": "{\"button\": \"1\"}",
+					"label": "Открыть сайт"
+				}
+            }]
+    },
+	{
+        "title": "100.000.000.000$ (80руб)",
+        "description": "Оплачивая что-либо в разделе «товары» Вы помогаете проекту в развитии!",
+        "photo_id": "-182329862_457239091",
+            "action": {
+                "type": "open_link",
+                "link": "https://vk.com/bot_rikl?w=product-178050588_4859633"
+        	},
+            "buttons": [{
+                "action": {
+					"type": "open_link",
+					"link": "https://botrikl.ru",
+					"payload": "{\"button\": \"1\"}",
+					"label": "Открыть сайт"
+				}
+            }]
+    }]
+}

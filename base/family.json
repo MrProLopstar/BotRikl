@@ -1,0 +1,75 @@
+{
+	"1": {
+		"id": 1,
+		"name": "Administration",
+		"users": [
+			1,
+			5,
+			3
+		],
+		"bank": 450000,
+		"people": 1,
+		"counts": 9,
+		"owner": 1
+	},
+	"2": {
+		"id": 2,
+		"name": "Xtaraz_Armi",
+		"users": [
+			13,
+			5,
+			61,
+			67
+		],
+		"bank": 450000,
+		"people": 3,
+		"counts": 9,
+		"owner": 13
+	},
+	"3": {
+		"id": 3,
+		"name": "🖤DaRk DeM0ns🖤",
+		"users": [
+			16,
+			15,
+			3,
+			2,
+			17,
+			24,
+			37,
+			3,
+			33,
+			23
+		],
+		"bank": 950000,
+		"people": 8,
+		"counts": 41,
+		"owner": 16
+	},
+	"4": {
+		"id": 4,
+		"name": "Anime_party🔥",
+		"users": [
+			3,
+			30,
+			66
+		],
+		"bank": 0,
+		"people": 2,
+		"counts": 10,
+		"owner": 3
+	},
+	"5": {
+		"id": 5,
+		"name": "KoTe Geng (OFFICAL GROUP)",
+		"users": [
+			1,
+			5,
+			60
+		],
+		"bank": 0,
+		"people": 3,
+		"counts": 1,
+		"owner": 5
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"inline": true,
+	"buttons": [
+		[{
+			"action": {
+				"type": "open_app",
+				"app_id": 6441755,
+				"owner_id": -178050588,
+				"payload": "{\"button\": \"1\"}",
+				"label": "Добавить в беседу"
+			}
+		}]
+	]
+}

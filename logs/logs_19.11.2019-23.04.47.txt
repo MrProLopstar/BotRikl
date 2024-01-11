@@ -1,0 +1,4 @@
+[][--Logs--][]
+19.11.2019 | 23:05:41 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! config.spon.push({ id: 278, uid: 5, pet: 14, url: "vk.me/join/AJQ1d4wChw7a76JQcJZ6Vz9d" })
+19.11.2019 | 23:06:05 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! config.spon.push({ id: 299, uid: 13, pet: 16, url: "vk.me/join/AJQ1dyqItgZovanN9rvqDub3" })
+19.11.2019 | 23:06:40 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! config.spon.push({ id: 364, uid: 39, pet: 18, url: "vk.me/join/AJQ1dyW8xRVhXpgtFK_KdvdL" })

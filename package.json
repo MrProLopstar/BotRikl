@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "google-tts-api": "^2.0.2",
+    "mathjs": "^11.3.1",
+    "mongoose": "^6.6.7",
+    "os": "^0.1.2",
+    "prequest": "^1.0.0",
+    "qr-image": "^3.2.0",
+    "request-promise": "^4.2.6",
+    "tcp-ping": "^0.1.1",
+    "vk-io": "^4.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+module.exports = [
+	{ id: 0,  name: "Отсутствует",                     lvl: 0,    count: 0        },
+	{ id: 1,  name: "Дальнобойщик",                    lvl: 0,    count: 10000    },
+	{ id: 2,  name: "Парикхмахер",                     lvl: 10,   count: 50000    },
+	{ id: 3,  name: "Сварщик",                         lvl: 20,   count: 100000   },
+	{ id: 4,  name: "Продавец",                        lvl: 30,   count: 150000   },
+	{ id: 5,  name: "Работник Macdonald(a)",           lvl: 40,   count: 200000   },
+	{ id: 6,  name: "Строитель",                       lvl: 50,   count: 250000   },
+	{ id: 7,  name: "Менеджер по продажам",            lvl: 65,   count: 400000   },
+	{ id: 8,  name: "Программист",                     lvl: 70,   count: 600000   },
+	{ id: 9,  name: "Депутат",                         lvl: 100,  count: 800000   },
+	{ id: 10, name: "Официант французского ресторана", lvl: 150,  count: 1500000  },
+	{ id: 11, name: "Повар французского ресторана",    lvl: 250,  count: 2500000  },
+	{ id: 12, name: "Работник нефтекомпании",          lvl: 500,  count: 5000000  },
+	{ id: 13, name: "Механик в Tesla",                 lvl: 750,  count: 7500000  },
+	{ id: 14, name: "Работник SpaceX",                 lvl: 1000, count: 10000000 },
+	{ id: 15, name: "Программист в MicroSoft",         lvl: 1500, count: 15000000 },
+	{ id: 16, name: "Режисер фильмов Marvel",          lvl: 3000, count: 30000000 },
+	{ id: 17, name: "Программист Apple",               lvl: 5000, count: 50000000 },
+	{ id: 18, name: "Директр Disney Company",          lvl: 7500, count: 75000000 }
+]

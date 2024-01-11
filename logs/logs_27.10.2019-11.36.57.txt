@@ -1,0 +1,39 @@
+[][--Logs--][]
+27.10.2019 | 11:38:13 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | Профиль 📗
+27.10.2019 | 11:40:54 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! message.send(``, { keyboard:JSON.stringify({ 
+ "one_time": false, 
+ "buttons": [ 
+  [{ 
+   "action": { 
+   "type": "text", 
+   "payload": "{\"button\": \"1\"}", 
+   "label": "Дома" 
+  }, 
+  "color": "primary" 
+  }, 
+  { 
+   "action": { 
+   "type": "text", 
+   "payload": "{\"button\": \"1\"}", 
+   "label": "Прогулка" 
+  }, 
+  "color": "primary" 
+  }, 
+  { 
+   "action": { 
+   "type": "text", 
+   "payload": "{\"button\": \"1\"}", 
+   "label": "Квесты" 
+  }, 
+  "color": "primary" 
+, 
+  [{ 
+   "action": { 
+   "type": "text", 
+   "payload": "{\"button\": \"1\"}", 
+   "label": "Загадка" 
+  }, 
+  "color": "negative" 
+ 
+ 
+}) });

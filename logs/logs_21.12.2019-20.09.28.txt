@@ -1,0 +1,6 @@
+[][--Logs--][]
+21.12.2019 | 20:09:33 | Игрок | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | поиск https://vk.com/alx_57
+21.12.2019 | 20:09:37 | Игрок | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | giveback
+21.12.2019 | 20:09:40 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | поиск https://vk.com/alx_57
+21.12.2019 | 20:09:48 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | setadm 7 7
+21.12.2019 | 20:09:58 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | !7 user.level = 7

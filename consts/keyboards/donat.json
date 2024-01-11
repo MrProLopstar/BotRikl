@@ -1,0 +1,13 @@
+{
+	"inline": true,
+	"buttons": [
+		[{
+			"action": {
+				"type": "open_link",
+				"link": "https://botrikl.ru",
+				"payload": "{\"button\": \"1\"}",
+				"label": "Купить донат 🔘"
+			}
+		}]
+	]
+}

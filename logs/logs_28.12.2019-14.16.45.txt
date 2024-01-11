@@ -1,0 +1,6 @@
+[][--Logs--][]
+28.12.2019 | 14:17:04 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | репорт тест
+28.12.2019 | 14:17:42 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! message.send(`.`, { attacment: "photo239209526_457245317" }
+28.12.2019 | 14:17:48 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! message.send(`.`, { attacment: "photo239209526_457245317" })
+28.12.2019 | 14:17:58 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | {VVVVVVVVVVVVVVV
+28.12.2019 | 14:18:02 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | Хммммм

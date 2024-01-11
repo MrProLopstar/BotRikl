@@ -1,0 +1,39 @@
+[][--Logs--][]
+19.11.2019 | 22:53:50 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! config.spon = [ 
+　 { 
+　 　 "id": 278, 
+ "uid": 5, 
+ "pet": 14, 
+　 　 "url": "vk.me/join/AJQ1d4wChw7a76JQcJZ6Vz9d" 
+　 }, 
+　 { 
+　 　 "id": 299, 
+ "uid": 13, 
+ "pet": 16, 
+　 　 "url": "vk.me/join/AJQ1dyqItgZovanN9rvqDub3" 
+　 }, 
+　 { 
+　 　 "id": 364, 
+"uid": 39, 
+"pet": 18, 
+　 　 "url": "vk.me/join/AJQ1dyW8xRVhXpgtFK_KdvdL" 
+　 }
+19.11.2019 | 22:55:02 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! config.spon = [ 
+ { 
+　 　  "id": 278, 
+  "uid": 5, 
+  "pet": 14, 
+　 　  "url": "vk.me/join/AJQ1d4wChw7a76JQcJZ6Vz9d" 
+　 }, 
+　 { 
+　 　  "id": 299, 
+  "uid": 13, 
+  "pet": 16, 
+　 　  "url": "vk.me/join/AJQ1dyqItgZovanN9rvqDub3" 
+　  }, 
+　  { 
+　 　  "id": 364, 
+  "uid": 39, 
+  "pet": 18, 
+　 　  "url": "vk.me/join/AJQ1dyW8xRVhXpgtFK_KdvdL" 
+　  }

@@ -1,0 +1,5 @@
+[][--Logs--][]
+03.01.2020 | 16:33:36 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 3 test
+03.01.2020 | 16:33:49 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 3 1.1 test
+03.01.2020 | 16:33:58 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 12 1.1 test
+03.01.2020 | 16:34:04 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | warn 15 1.1 test

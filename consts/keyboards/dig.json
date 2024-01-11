@@ -1,0 +1,29 @@
+{
+	"inline": true,
+	"buttons": [
+		[{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Продать к"
+		},
+		"color": "primary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Продать а"
+		},
+		"color": "primary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Продать в"
+		},
+		"color": "primary"
+		}]
+	]
+}

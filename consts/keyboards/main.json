@@ -1,0 +1,54 @@
+{
+	"one_time": false,
+	"buttons": [
+		[{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Помощь 📋"
+		},
+		"color": "primary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Профиль 📗"
+		},
+		"color": "primary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Сборочная 💽"
+		},
+		"color": "primary"
+		}],
+		[{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Копать к 🔋"
+		},
+		"color": "primary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Копать а 🔋"
+		},
+		"color": "primary"
+		},
+		{
+			"action": {
+			"type": "text",
+			"payload": "{\"button\": \"1\"}",
+			"label": "Копать в 🔋"
+		},
+		"color": "primary"
+		}
+		]
+	]
+}

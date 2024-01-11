@@ -1,0 +1,6 @@
+[][--Logs--][]
+10.12.2019 | 01:00:45 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | setadm 1 3
+10.12.2019 | 01:00:48 | Toster | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | giveback
+10.12.2019 | 01:00:57 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | выдать 1 2
+10.12.2019 | 01:01:07 | VIP+ | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | giveback
+10.12.2019 | 01:01:11 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | выдать 1 3

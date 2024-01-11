@@ -1,0 +1,5 @@
+[][--Logs--][]
+16.11.2019 | 17:28:14 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! airs.lenght
+16.11.2019 | 17:28:33 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! airs.length
+16.11.2019 | 17:28:39 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | .-.
+16.11.2019 | 17:28:48 | Создатель | ID: 1 | ID Chat: 1 | URL: vk.com/id239209526 | ! eval(length)
